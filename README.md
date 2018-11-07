@@ -5,4 +5,4 @@ Developed for Sushipool.
 
 Binary releases can be found in this github repo. For source, please contact us.
 
-![Preview](screenshot.png?raw=true "Preview")
+![Preview](screenshot.PNG?raw=true "Preview")
