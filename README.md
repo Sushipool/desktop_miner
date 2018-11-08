@@ -1,4 +1,4 @@
-# Sushipool Desktop Miner
+# SushiPool Desktop Miner
 
 An electron-based GUI miner for Windows/Mac/Linux.
 Developed for Sushipool.
