@@ -1,7 +1,7 @@
 # SushiPool Desktop Miner
 
 An electron-based GUI miner for Windows/Mac/Linux.
-Developed for Sushipool.
+Developed for SushiPool.
 
 Binary releases can be found in this github repo. For source, please contact us.
 
