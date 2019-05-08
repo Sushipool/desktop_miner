@@ -6,7 +6,7 @@ SushiPool Desktop Miner is a simple app set to allow anyone in the world to star
 ![Preview](screenshot.png?raw=true "Preview")
 
 ### Features
-<b>Optimized Performance</b>: Optimized Hash Rate for all CPU's (SSE2, AVX2 & AVX512).
+<b>Optimized Performance</b>: Optimized Hash Rate for all Graphics Cards and Processors.
 
 <b>Intuitive Design Beautiful</b>: Modern UI and Simple User Experience.
 
